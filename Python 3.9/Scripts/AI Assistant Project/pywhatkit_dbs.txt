@@ -1,0 +1,61 @@
+--------------------
+Date: 19:2:2022
+Time: 9:55
+Phone number: +919870808662
+Message: hello deepanshu how are you
+--------------------
+Date: 19:2:2022
+Time: 10:38
+Phone number: +919870808662
+Message: hello how are you
+--------------------
+Date: 19:2:2022
+Time: 10:39
+Phone number: +919140289864
+Message: hello aryan how are you
+--------------------
+Date: 31:8:2022
+Time: 23:50
+Phone number: +919140289864
+Message: hello aryan i am using whatsapp
+--------------------
+Date: 26:9:2022
+Time: 15:48
+Phone number: +918219714336
+Message: hello rishika how are you
+--------------------
+Date: 26:9:2022
+Time: 15:52
+Phone number: +918219714336
+Message: hello rishika how are you
+--------------------
+Date: 28:9:2022
+Time: 0:29
+Phone number: +918219714336
+Message: hello rishika i am using whatsapp automation
+--------------------
+Date: 11:11:2022
+Time: 15:5
+Phone number: +919044217764
+Message: hello sahil how are you i am using whatsapp
+--------------------
+Date: 11:11:2022
+Time: 15:25
+Phone number: +919044217764
+Message: hello sahil i am using whatsapp automation
+--------------------
+Date: 23:12:2022
+Time: 18:55
+Phone number: +919548458448
+Message: hello riya how are you you are getting fat
+--------------------
+Date: 29:3:2023
+Time: 18:52
+Phone number: +918858532751
+Message: hello bro how are you tumhari maa ki choot
+--------------------
+Date: 19:4:2023
+Time: 21:50
+Phone number: +919548458448
+Message: hello riya how are you i am using my voice assistant
+--------------------
